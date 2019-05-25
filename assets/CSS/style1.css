@@ -1,0 +1,44 @@
+body {
+	color: black;
+	background-color: black;
+}
+#banner {
+	background-color: white;
+	border: solid 2px black;
+	
+}
+#name {
+    
+    margin-left: 200px;
+    
+}
+ul {
+    float: right;
+    list-style-type: none;
+    margin: 20px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+  }
+  li {
+    display: inline;
+    }
+
+li a {
+    color: rgb(78, 78, 76);
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+.section{
+	background-color: white;
+	border: solid 2px black;
+	
+	padding: 5%;
+}
+#footer{
+	background-color: white;
+	border: solid 2px black;
+	
+	padding: 5%;
+}
